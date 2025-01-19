@@ -95,7 +95,7 @@ sleep
 
 <h3>1. Parcel sorting result:</h3>
 
-![Parcel Sorting Result](pictures\parcelsorting.png)
+![Parcel Sorting Result](pictures/parcelsorting.png)
 
 It priotise urgency first, then weight.
   
@@ -113,11 +113,11 @@ Below are the results:
 
 100x100map
 
-![astar100x100detail1](pictures\astar100x100detail1.png)
+![astar100x100detail1](pictures/astar100x100detail1.png)
 
 ![astar100x100map](pictures/astar100x100map.png)
 
-![astar100x100detail2](pictures\astar100x100detail2.png)
+![astar100x100detail2](pictures/astar100x100detail2.png)
 
 <h3>3. A* algorithm maze pathfinding:</h3>
 
@@ -133,11 +133,11 @@ Below are the results:
 
 100x100map
 
-![astar101x101mazedetail1](pictures\astar101x101mazedetail1.png)
+![astar101x101mazedetail1](pictures/astar101x101mazedetail1.png)
 
 ![astar101x101maze](pictures/astar101x101maze.png)
 
-![astar101x101mazedetail2](pictures\astar101x101mazedetail2.png)
+![astar101x101mazedetail2](pictures/astar101x101mazedetail2.png)
 
 <h3>4. Dijkstra's algorithm map&maze pathfinding:</h3>
 
